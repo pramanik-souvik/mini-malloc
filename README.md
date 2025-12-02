@@ -38,7 +38,7 @@ It's a great learning project for understanding how real allocators work under t
 ---
 
 ## 📁 Project Structure
-
+```
 mini-malloc/
 │
 ├── src/
@@ -49,7 +49,7 @@ mini-malloc/
 │ └── test_allocator.c # basic tests for the allocator
 │
 └── Makefile # build & test commands
-
+```
 
 ---
 
